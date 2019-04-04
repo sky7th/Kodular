@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "985691526096",
+    "firebase_url": "https://kakaodok-b3e81.firebaseio.com",
+    "project_id": "kakaodok-b3e81",
+    "storage_bucket": "kakaodok-b3e81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985691526096:android:46a9d2f6f1926680",
+        "android_client_info": {
+          "package_name": "com.company.kakaodok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8tE6ewrbc6CF53WodgQi8GOvJXo4jv-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985691526096-ncplmjg8oo4vt0ludn6ev8i343beh738.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
